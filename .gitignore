@@ -43,3 +43,6 @@
 # cmake
 build/
 vendored/
+
+# vscode
+.vscode/
