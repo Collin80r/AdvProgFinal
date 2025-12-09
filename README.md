@@ -1,7 +1,9 @@
 # AdvProgFinal
 ## Installation
  1. Install cmake
- 2. Get local cmake clone
+ 2. Clone this project
+ 3. Open command prompt inside project directory
+ 4. Get local SDL clone
  ```sh
  git clone https://github.com/libsdl-org/SDL.git vendored/SDL
  ```
@@ -15,5 +17,5 @@
  ./build/Debug/main
  ```
 
-## Resources
-https://github.com/libsdl-org/SDL/blob/main/docs/INTRO-cmake.md
+## Additional Resources
+Building with CMake: https://github.com/libsdl-org/SDL/blob/main/docs/INTRO-cmake.md
