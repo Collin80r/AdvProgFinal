@@ -1,18 +1,19 @@
 # AdvProgFinal
+## Prerequisites
+ * CMake (https://cmake.org/download/)
 ## Installation
- 1. Install cmake (https://cmake.org/download/)
- 2. Clone this project
- 3. Open command prompt inside project directory
- 4. Get local SDL clone
+ 1. Clone this project
+ 2. Open command prompt inside project directory
+ 3. Get local SDL clone
  ```sh
  git clone https://github.com/libsdl-org/SDL.git vendored/SDL
  ```
- 3. Configure & Build
+ 4. Configure & Build
  ```sh
  cmake -S . -B build
  cmake --build build
  ```
- 3. Run
+ 5. Run
  ```sh
  ./build/Debug/main
  ```
