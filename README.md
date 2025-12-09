@@ -1,6 +1,6 @@
 # AdvProgFinal
 ## Installation
- 1. Install cmake
+ 1. Install cmake (https://cmake.org/download/)
  2. Clone this project
  3. Open command prompt inside project directory
  4. Get local SDL clone
